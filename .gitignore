@@ -1,0 +1,4 @@
+config/db_conf.php
+access.log
+error.log
+.htaccess
